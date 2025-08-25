@@ -1,3 +1,4 @@
+import React from "react";
 import HeroSection from "./pages/Home.jsx";
 import MyNavbar from "./pages/Navbar";
 import AboutMe from "./pages/Aboutme.jsx";

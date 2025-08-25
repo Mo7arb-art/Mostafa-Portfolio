@@ -1,5 +1,5 @@
 body {
-  background-color: #033f3f;
+  background-color: #044343;
   margin: 0;
   font-family: "Open Sans", sans-serif;
   color: white;
@@ -7,7 +7,7 @@ body {
 
 .about-me {
   padding: 4rem 2rem;
-  background-color: #033f3f;
+  background-color: #044343;
   line-height: 1.8;
   animation: fadeInUp 1s ease-out;
   width: 100%;

@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Open+Sans&display=swap");
 
 body {
-  background-color: #044343;
+  background-color: #033f3f;
   margin: 0;
   font-family: "Open Sans", sans-serif;
   color: white;
@@ -13,7 +13,7 @@ body {
   justify-content: space-between;
   align-items: flex-start;
   height: 850px;
-  background-color: #044343;
+  background-color: #033f3f;
   overflow: visible;
 }
 

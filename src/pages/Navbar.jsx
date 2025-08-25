@@ -1,3 +1,4 @@
+import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../Styles/Navbarstyles.css";
 import { FaGithub, FaLinkedin, FaDiscord } from "react-icons/fa";
