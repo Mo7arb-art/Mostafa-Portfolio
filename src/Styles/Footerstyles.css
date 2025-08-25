@@ -1,0 +1,18 @@
+.footer {
+  background-color: #033f3f;
+  color: #e0f7f7;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 1rem;
+  box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.footer-icon {
+  font-size: 1.5rem;
+  color: #00ffff;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.footer-icon:hover {
+  transform: scale(1.2);
+  color: #ffffff;
+}
