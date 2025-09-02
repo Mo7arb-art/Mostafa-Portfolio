@@ -88,6 +88,14 @@ const Showcase = () => {
             </div>
           </div>
         </div>
+            <a
+          href="https://mo7arb-art.github.io/myprojects-portfolio/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="button-launchpad"
+        >
+          Explore My Launches!
+        </a>
       </div>
     </section>
   );
