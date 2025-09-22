@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mostafa-Portfolio/static/css/main.213bdbfa.css",
+    "main.js": "/Mostafa-Portfolio/static/js/main.d578848b.js",
+    "index.html": "/Mostafa-Portfolio/index.html",
+    "main.213bdbfa.css.map": "/Mostafa-Portfolio/static/css/main.213bdbfa.css.map",
+    "main.d578848b.js.map": "/Mostafa-Portfolio/static/js/main.d578848b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.213bdbfa.css",
+    "static/js/main.d578848b.js"
+  ]
+}
