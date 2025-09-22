@@ -70,7 +70,7 @@ const Showcase = () => {
         {/* Keeper App */}
         <div className="project-item">
           <a
-            href="https://cgj9r5.csb.app/"
+            href="https://mo7arb-art.github.io/keeper-project/"
             target="_blank"
             rel="noopener noreferrer"
           >
