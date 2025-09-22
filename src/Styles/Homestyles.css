@@ -5,7 +5,7 @@ body {
   margin: 0;
   font-family: "Open Sans", sans-serif;
   color: white;
-  padding-top: 75px;
+  padding-top: 42px;
 }
 
 .hero {
@@ -127,6 +127,18 @@ body {
 }
 
 /* Responsive styles */
+@media (max-width: 768px) {
+  body {
+    padding-top: 36px; /* adjusted for smaller font size */
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    padding-top: 33px; /* adjusted for smallest font size */
+  }
+}
+
 @media (max-width: 768px) {
   .hero {
     flex-direction: column;
