@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Mostafa-Portfolio/static/css/main.4ffef88d.css",
+    "main.css": "/Mostafa-Portfolio/static/css/main.393b368d.css",
     "main.js": "/Mostafa-Portfolio/static/js/main.6de215e0.js",
     "index.html": "/Mostafa-Portfolio/index.html",
-    "main.4ffef88d.css.map": "/Mostafa-Portfolio/static/css/main.4ffef88d.css.map",
+    "main.393b368d.css.map": "/Mostafa-Portfolio/static/css/main.393b368d.css.map",
     "main.6de215e0.js.map": "/Mostafa-Portfolio/static/js/main.6de215e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ffef88d.css",
+    "static/css/main.393b368d.css",
     "static/js/main.6de215e0.js"
   ]
 }
